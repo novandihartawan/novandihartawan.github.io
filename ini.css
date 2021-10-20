@@ -1,9 +1,16 @@
 body{
 	
-	background-color: lightblue;
+	background-color: black;
 }
 h1{
 	
-	color: green;
+	color: oldlace;
 	margin-left: 30px;
+
+}p{
+	color: aqua;
+	margin-left: 25px;
+}marquee{
+	background-color: #46136D;
+	width: 500px;
 }
