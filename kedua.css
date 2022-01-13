@@ -1,8 +1,12 @@
 img{
 	border: 2px;
-	background: red;
-	width: 25%;
-}table{
-	border: 6px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
 }
-
+body{
+	background: lightblue;
+	border-image-outset: initial;
+}marquee{
+	
+}
